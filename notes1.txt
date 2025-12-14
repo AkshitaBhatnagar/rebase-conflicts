@@ -1,0 +1,3 @@
+text from abc for rebase
+
+text from xyz
